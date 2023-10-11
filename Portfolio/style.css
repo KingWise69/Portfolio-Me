@@ -1,0 +1,28 @@
+/* Add your CSS styles here */
+header {
+    text-align: center;
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+}
+
+.profile {
+    text-align: center;
+    margin: 20px;
+}
+
+.profile img {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+.skills, .projects {
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #3498db;
+    color: white;
+}
